@@ -1,0 +1,20 @@
+Exercise 1 :
+
+1 : clean code is a code  understandable by anyone, scalable and backtestable.
+The role of the refacto is to have a code understandable and don't overcharge the constructor + scalable.
+2 : Over refactor would be when you try to apply a lot of knwoledges when you don't need to do ( simple task )
+3 : When you have bad habits in code, the code is hard to understand and every changes are hard : the code is stinky x)
+It's to work on a massiv project ( with potentially other people) when your code smells.
+4: -Update function : a lot of imbricated if for items
+- items are not diversificated => no scalability and no way to easilly create new ones with custom methods...
+5 : The builder for specific set of items,
+maybe abstract factory to produce families of related objects without specifiyng their concrete classes
+
+Exercise 2 :
+
+1 : Design pattern : Way of create with a method a clean / understandable project
+-Use one when you work in team / large project
+-Little test projects
+
+3 : A couscous can be royal or not if you add meat; limitations : can't add vegetables because i don't like it 
+or meat can't be transformed into a royal couscous.
